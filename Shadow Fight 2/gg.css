@@ -1,0 +1,55 @@
+
+h1{ 
+    font-family:Verdana;
+    text-align: center;
+    color: black;
+    background-color:rgb(230, 230, 148);
+    width: 1920px;
+    height: 45px;
+}
+h4{
+    text-align: center;
+    font-family: "Pacifico";
+    width:900px;
+}
+.lar {
+    font-family: "Pacifico";
+}
+h3{
+    font-family:Verdana;
+    text-align: left;
+    color: black;
+}  
+.xD{
+    width: 10px;
+    height: 10px;
+}
+body{
+    background-color:tan;
+}
+.xD img{
+
+position: absolute;
+margin-left: 1300px;
+
+}
+.pic {
+    float: left;
+    padding-bottom: 10px;
+}
+a:link {
+    color:black;
+       text-decoration: none;
+   }
+   a:hover.link {
+    color: black;
+    text-decoration: none;
+   }
+   a:active {
+    color:black;
+       text-decoration: none;
+   }
+   a:visited {
+    color:black;
+       text-decoration: none;
+    }
